@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GCM Sample</string>
+
+    <string name="gcm_android_key">AIzaSyDACfck1s5ZD5vIFMxHlg_ArNh8pZKIZOY</string>
+    <string name="gcm_sender_id">793532904128</string>
+</resources>
